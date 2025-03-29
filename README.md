@@ -39,6 +39,9 @@ And run this script:
 
 Below is a text-based “screenshot” showing the menu in action:
 
+![ollama1](https://github.com/user-attachments/assets/607b1641-f5cd-4bac-a79f-c59200e53bdb)
+
+
 ![ollama](https://github.com/user-attachments/assets/c915c291-d4d0-40ee-9884-a2ea9021c400)
 
 
