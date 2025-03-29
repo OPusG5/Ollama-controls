@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Created and maintained by OpusG5, enjoy!
 # Hardcode the Ollama binary path if needed:
 OLLAMA_BIN="/usr/local/bin/ollama"
 
